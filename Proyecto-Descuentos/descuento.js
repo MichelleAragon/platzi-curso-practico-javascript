@@ -22,11 +22,3 @@ function onClickButtonPriceDiscount(){
 
 
 
-
-
-/*console.log({
-    precioOriginal,
-    descuento,
-    porcentajePrecioConDescuento,
-    precioConDescuento,
-});*/
